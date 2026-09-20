@@ -1,0 +1,3 @@
+<uses-permission android:name="android.permission.RECORD_AUDIO" />
+<uses-permission android:name="android.permission.CAMERA" />
+<!-- No internet needed for v1 - 100% offline, Play Store ko ye pasand hai -->
